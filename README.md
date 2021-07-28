@@ -1,4 +1,4 @@
-#Stage between mother and baby（亲子驿站）的设计
+# Stage between mother and baby（亲子驿站）的设计
 Stage between mother and baby（亲子驿站），它是一个母婴亲子交流的软件。从这份报告中，您可以看到 Stage between mother and baby与我们开发人员和设计师的设计流程。
 ### 介绍
 Stage between mother and baby（亲子驿站）是一款基于帮助新手妈妈解决育婴问题，和专家进行育婴工作宣传的app，专为各种不同情况妈妈设计的亲子间互动软件。妈妈可以利用我们软件的不同功能，实现对孩子生活的记录，了解自己和孩子的健康信息，分享和学习一些其他的育婴经验。下面是软件所有的几大特性：
